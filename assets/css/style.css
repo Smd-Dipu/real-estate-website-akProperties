@@ -474,6 +474,7 @@ header .navbar {
 .about-features .container .row {
 	padding-bottom: 0px!important;
 	border-bottom: none!important;
+	text-align: justify;
 }
 
 .best-features {
